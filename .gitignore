@@ -1,0 +1,5 @@
+.*
+__pycache__/
+*.pyc
+!apr_tools/collected_patches.7z
+apr_tools/*

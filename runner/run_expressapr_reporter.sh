@@ -1,0 +1,5 @@
+#!/bin/bash
+python3 collect_expressapr_reporter.py PlausibleRecoder
+python3 collect_expressapr_reporter.py PlausibleTBar
+python3 collect_expressapr_reporter.py PlausibleSimFix
+python3 collect_expressapr_reporter.py PlausibleHanabi
